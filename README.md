@@ -1,7 +1,8 @@
-# 🎨 Computer Graphics - Interactive 3D Scene Animation
+# � CityFlow - A Day Night Cycle Animation
 
-A comprehensive OpenGL-based interactive animation project showcasing a dynamic landscape with multiple animated objects, realistic lighting, and interactive controls. This project demonstrates advanced computer graphics techniques including transformations, lighting, particle effects, and real-time rendering.
+A comprehensive OpenGL-based interactive animation project showcasing a dynamic landscape with multiple animated objects, realistic lighting, and interactive controls. This project demonstrates advanced computer graphics techniques including transformations, lighting, particle effects, and real-time rendering with a complete day-night cycle.
 
+**Project**: CityFlow - Interactive Day/Night Cycle Visualization  
 **Course**: Computer Graphics (Fall 2021-22)  
 **Status**: ✅ Fully Functional  
 **Platforms**: Windows (Primary), macOS (Compatible), Linux (Compatible)
@@ -51,15 +52,29 @@ g++ -o FinalProject main.cpp -lglut -lGL -lGLU -lm
 
 ---
 
-## 🎬 Project Overview
+## � What is CityFlow?
 
-This is a **Group 9 Final Project** for the Computer Graphics course. The application renders a complex 3D scene featuring:
+**CityFlow** brings a virtual city to life with a complete day-night cycle animation. Watch as the sun moves across the sky, illuminating a bustling urban landscape with cars, trains, ships, and planes. Control the vehicles in real-time, trigger weather effects, and experience dynamic lighting that transitions naturally from sunrise to sunset and into night.
 
-- **Dynamic Environment**: Day/night cycle with realistic sky color transitions
+This project is perfect for:
+- **Learning OpenGL graphics programming**
+- **Understanding animation and lighting systems**
+- **Computer graphics portfolio projects**
+- **Educational demonstrations of 3D graphics concepts**
+
+---
+
+## �🎬 Project Overview
+
+**CityFlow** is a Group 9 Final Project for the Computer Graphics course. This application renders a complex, interactive 3D scene featuring a complete day-night cycle with realistic environmental transitions. Watch as the city transitions from day to night with dynamic lighting, weather effects, and autonomous vehicle movement.
+
+The application showcases:
+
+- **Dynamic Environment**: Realistic day/night cycle with sky color transitions
 - **Interactive Vehicles**: 3 controllable cars with independent speed control
 - **Transportation**: Animated train and ship with audio effects
-- **Atmospheric Effects**: Clouds, rain, wind, and dynamic lighting
-- **Architecture**: Buildings, windmills, towers, and trees
+- **Atmospheric Effects**: Clouds, rain, wind, and dynamic lighting that follows the sun
+- **Architecture**: Buildings, windmills, towers, and trees creating an urban landscape
 - **Water Bodies**: Rivers and boats with realistic movement
 - **Aviation**: Animated airplane traversing the sky
 
@@ -728,10 +743,13 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 ---
 
-## 👥 Authors
+## 👥 Authors & Project Info
 
-**Group 9** - Computer Graphics Course Final Project  
+**CityFlow - A Day Night Cycle Animation**  
+Group 9 - Computer Graphics Course Final Project  
 Fall 2021-22 Academic Year
+
+This project showcases real-time graphics rendering with dynamic environmental effects, interactive vehicle control, and a complete day-night cycle system.
 
 ---
 
