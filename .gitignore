@@ -1,0 +1,90 @@
+# Build Artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# IDE-specific files
+.vs/
+.vscode/
+*.cbp
+*.depend
+*.layout
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pro
+*.pro.user
+*.creator
+*.creator.user
+
+# IDE directories
+.idea/
+*.iml
+*.xcodeproj/
+*.xcworkspace/
+
+# Debugging
+*.pdb
+*.dSYM/
+*.su
+*.gch
+*.pcb
+*.map
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build directories
+bin/
+obj/
+build/
+dist/
+Debug/
+Release/
+x64/
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+.DS_Store
+Thumbs.db
+*.bak
+
+# Compiled Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Editor backups
+*.backup
+.undo
+.git_backup
+
+# OS-specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Documentation builds
+docs/_build/
+site/
+
+# Environment variables
+.env
+.env.local

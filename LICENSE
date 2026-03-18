@@ -1,0 +1,61 @@
+MIT License
+
+Copyright (c) 2021-2022 Group 9 - Computer Graphics Course Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ABOUT THIS LICENSE:
+
+This project is licensed under the MIT License, one of the most permissive
+open-source licenses available. This means:
+
+✅ YOU CAN:
+   - Use the software for any purpose (personal, commercial, educational)
+   - Copy, modify, and distribute the software
+   - Include the software in proprietary applications
+   - Use the software privately
+
+⚠️  YOU MUST:
+   - Include a copy of this license in any distribution
+   - Include a copyright notice (the above header)
+   - State what changes you made to the software
+
+❌ YOU CANNOT:
+   - Hold the authors liable for any issues
+   - Use the authors' names to promote derivative works without permission
+
+---
+
+ACADEMIC USE:
+
+For use in academic settings:
+- This code is provided for educational purposes
+- When using this as a reference or base for your own project, please:
+  * Understand and learn from the code
+  * Give credit to the original authors
+  * Follow your institution's academic integrity policies
+  * Avoid plagiarism by writing your own implementations
+  * Document which parts are original vs. inspired by this project
+
+---
+
+For more details about the MIT License, visit:
+https://opensource.org/licenses/MIT
